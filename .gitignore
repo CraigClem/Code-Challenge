@@ -50,3 +50,12 @@ npm-debug.log
 !.vscode/extensions.json
 config.codekit3
 prepros-6.config
+
+# HONCHO
+.vscode
+storage
+vendor
+web/cpresources
+.htaccess
+web.config
+.env
