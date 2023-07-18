@@ -1,4 +1,4 @@
-dateModified: 1651529655
+dateModified: 1689690142
 email:
   fromEmail: andrew@nystudio107.com
   fromName: Craft
@@ -37,5 +37,5 @@ system:
   live: true
   name: 'Craft CMS'
   retryDuration: 60
-  schemaVersion: 4.0.0.9
+  schemaVersion: 4.4.0.4
   timeZone: America/New_York
